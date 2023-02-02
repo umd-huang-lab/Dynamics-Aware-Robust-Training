@@ -1,0 +1,1 @@
+from .FAB_scalar_boundary import FABAttack_scalar

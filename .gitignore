@@ -1,0 +1,18 @@
+__pycache__
+*.results
+data/*
+.ipynb_checkpoints
+
+
+### common 
+.DS_Store
+.DS_Store?
+.Trashes
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
