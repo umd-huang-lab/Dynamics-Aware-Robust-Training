@@ -2,6 +2,7 @@ __pycache__
 *.results
 .ipynb_checkpoints
 
+data/*
 
 ### common 
 .DS_Store
