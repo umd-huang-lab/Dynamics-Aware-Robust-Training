@@ -1,5 +1,5 @@
 # Dynamics-Aware-Robust-Training
-The codebase for the paper "Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness" (ICLR 2023,https://openreview.net/forum?id=aRTKuscKByJ) by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and Furong Huang. 
+The codebase for the paper "Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness" (ICLR 2023, https://openreview.net/forum?id=aRTKuscKByJ) by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and Furong Huang. 
 
 The implementation of DyART (Dynamics-aware robust training) is provided.
 
