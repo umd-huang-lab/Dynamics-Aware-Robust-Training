@@ -61,7 +61,7 @@ bash scripts/resume.sh
 ```
 
 ## AutoAttack Evaluation
-Provide the experiment folder directory in *bash/eval.sh* and run
+Provide the experiment folder directory in *scripts/eval.sh* and run
 ```
 bash scripts/eval.sh
 ```
