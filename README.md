@@ -7,7 +7,7 @@ The implementation of DyART (Dynamics-aware robust training) is provided.
 * During training, the decision boundary moves in the input space. Our framework provides a closed-form expression for the relative speed of the decision boundary w.r.t. any data point, which characterizes the decision boundary dynamics. 
 * Margin, the distance from the decision boundary to the data point in the input space, is a fundamental quantity in machine learning. We provide a closed-from expression that explicitly computes the margin gradients w.r.t. the neural network parameters.
 * DyART achieves adversarial robustness by directly following the margin gradients during training, in contrast with previous SOTA adversarial training methods based on the min-max framework.
-* With 10M additional synthetic data, DyART achieves 93.69% clean accuracy and 63.89% Linf robust accuracy using WRN-28-10 on CIFAR-10, which ranks **2nd** on the [RobustBench Leaderboard](https://robustbench.github.io) under the same neural architecture as of April, 2023. 
+* With 10M additional synthetic data, DyART achieves 93.69% clean accuracy and 63.89% Linf robust accuracy using WRN-28-10 on CIFAR-10, which ranks **2nd** on the [RobustBench Leaderboard](https://robustbench.github.io) under the same neural architecture as of May, 2023. 
 
 
 
